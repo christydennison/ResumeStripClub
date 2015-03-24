@@ -1,4 +1,3 @@
-require('pdfjs')();
-var MainSrvc = require('./MainSrvc');
+var MainSrvc = require('./MainSrvc')();
 
-MainSrvc.loadPDF('helloworld.pdf');
+MainSrvc.loadPDF('libs/helloworld.pdf');

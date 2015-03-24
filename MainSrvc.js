@@ -1,23 +1,33 @@
+var PDFViewerSrvc = require('./PDFViewerSrvc')();
+
 module.exports = function () {
     var MainSrvc = {};
 
     MainSrvc.loadPDF = function(pdfName) {
-        PDFJS.getDocument(pdfName).then(function(pdf) {
-            pdf.getPage(1).then(function(page) {
-                var scale = 1.5;
-                var viewport = page.getViewport(scale);
+        PDFJS.getDocument(pdfName).then(function(pdfDocument) {
+            PDFViewerSrvc.pdfViewer.setDocument(pdfDocument);
 
-                var canvas = document.getElementById('canvas');
-                var context = canvas.getContext('2d');
-                canvas.height = viewport.height;
-                canvas.width = viewport.width;
+            // pdfDocument.getPage(1).then(function(page) {
+            //     var scale = 1.5;
+            //     var viewport = page.getViewport(scale);
 
-                var renderContext = {
-                  canvasContext: context,
-                  viewport: viewport
-                };
-                page.render(renderContext);  
-            });
+            //     var context = PDFViewerSrvc.element.getContext('2d');
+            //     PDFViewerSrvc.element.height = viewport.height;
+            //     PDFViewerSrvc.element.width = viewport.width;
+
+            //     var renderContext = {
+            //       canvasContext: context,
+            //       viewport: viewport
+            //     };
+            //     page.render(renderContext);
+
+            //     setTimeout(function() {
+            //         PDFViewerSrvc.findText('hello');
+            //     }, 100);
+            // });
+            setTimeout(function() {
+                PDFViewerSrvc.findText('hello');
+            }, 100);
         });
     }
 

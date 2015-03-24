@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/christydennison/ResumeStripClub",
   "dependencies": {
-    "pdfjs": "git://github.com/mozilla/pdf.js"
   },
   "devDependencies": {
     "browserify-istanbul": "~0.1.5",

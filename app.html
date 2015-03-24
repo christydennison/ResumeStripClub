@@ -1,8 +1,19 @@
 <html>
     <head>
-        <script type="text/javascript" src="bundle.js"></script>
+        <link rel="stylesheet" type="text/css" href="libs/pdf_viewer.css">
+        <script type="text/javascript" src="libs/ui_utils.js"></script>
+        <script type="text/javascript" src="libs/pdf.js"></script>
+        <script type="text/javascript" src="libs/pdf_viewer.js"></script>
+        <script type="text/javascript" src="libs/pdf_find_bar.js"></script>
+        <script type="text/javascript" src="libs/pdf_find_controller.js"></script>
     </head>
     <body>
-        <canvas id="canvas" style="border:1px solid black;"/>
+        <div id="viewerContainer" style="border:1px solid black;">
+            <div id="viewer" class="pdfViewer"></div>
+        </div>
+        <input id="findInput" style="display: none;">
+        <div id="findMsg" style="display: none;"></div>
+
+        <script type="text/javascript" src="release/bundle.js"></script>
     </body>
 </html>
