@@ -1,0 +1,39 @@
+{
+  "name": "ResumeStripClub",
+  "version": "0.0.1",
+  "description": "Strip the bias right out of resumes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christydennison/ResumeStripClub.git"
+  },
+  "keywords": [
+    "resume",
+    "gender-neutral"
+  ],
+  "author": "christydennison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christydennison/ResumeStripClub/issues"
+  },
+  "homepage": "https://github.com/christydennison/ResumeStripClub",
+  "dependencies": {
+    "pdfjs": "git://github.com/mozilla/pdf.js"
+  },
+  "devDependencies": {
+    "browserify-istanbul": "~0.1.5",
+    "gulp": "~3.8.11",
+    "gulp-tasks-riq": "~0.1.26",
+    "karma": "~0.12.31",
+    "karma-browserify": "~2.0.0",
+    "karma-chrome-launcher": "~0.1.7",
+    "karma-coverage": "~0.2.6",
+    "karma-jasmine": "~0.2.3",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "karma-story-reporter": "~0.2.2",
+    "karma-teamcity-reporter": "~0.1.2"
+  }
+}

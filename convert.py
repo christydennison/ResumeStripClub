@@ -80,7 +80,7 @@ def process(fname):
     file_path = os.path.join(pathname, lastname)
     txt_file_path = file_path + '.txt'
     redacted_file_path = file_path + '_redacted.txt'
-    os.remove(redacted_file_path)
+    # os.remove(redacted_file_path)
     pdf2txt.main(['', '-o', txt_file_path, fname])
 
     with open(txt_file_path) as f:
