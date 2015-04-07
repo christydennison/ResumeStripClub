@@ -64,3 +64,99 @@ girly
 manly
 Wedding
 Phi Beta Kappa
+Alpha Chi Omega
+Alpha Delta Chi
+Alpha Delta Pi
+Alpha Epsilon Phi
+Alpha Gamma Delta (Chapters)
+Alpha Kappa Alpha
+alpha Kappa Delta Phi
+Alpha Nu Omega
+Alpha Omicron Pi
+Alpha Phi
+Alpha Phi Gamma
+Alpha Pi Phi
+Alpha Pi Omega
+Alpha Pi Sigma
+Alpha Sigma Alpha (Chapters)
+Alpha Sigma Kappa
+Alpha Sigma Omega
+Alpha Sigma Rho
+Alpha Sigma Tau
+Alpha Xi Delta
+Ceres
+Chi Omega (Chapters)
+Chi Upsilon Sigma
+Delta Chi Lambda
+Delta Delta Delta
+Delta Gamma
+Delta Gamma Pi
+Delta Kappa Delta
+Delta Lambda Chi
+Delta Phi Epsilon
+Delta Phi Lambda
+Delta Phi Mu
+Delta Phi Omega
+Delta Psi Epsilon
+Delta Sigma Chi
+Delta Sigma Theta
+Delta Tau Lambda
+Delta Xi Nu
+Delta Xi Phi
+Delta Zeta
+Eta Gamma Delta
+Gamma Alpha Omega
+Gamma Eta
+Gamma Phi Beta
+Gamma Phi Omega
+Gamma Rho Lambda
+Kappa Alpha Theta
+Kappa Beta Gamma
+Kappa Delta
+Kappa Delta Chi
+Kappa Delta Phi National Affiliated Sorority
+Kappa Kappa Gamma
+Kappa Phi Gamma
+Kappa Phi Lambda
+Kappa Phi Chi
+Lambda Pi Chi
+Lambda Pi Upsilon
+Lambda Psi Delta
+Lambda Sigma Gamma
+Lambda Tau Omega
+Lambda Theta Alpha
+Lambda Theta Nu
+Mu Alpha Phi
+Mu Epsilon Theta
+Mu Sigma Upsilon
+National Society of Pershing Angels
+Omega Phi Beta
+Omega Phi Chi
+Phi Beta Chi
+Phi Mu (Chapters)
+Phi Sigma Rho
+Phi Sigma Sigma (Chapters)
+Pi Beta Phi (Chapters)
+Pi Lambda Chi
+Sigma Alpha Epsilon Pi
+Sigma Delta Tau
+Sigma Gamma Rho
+Sigma Iota Alpha
+Sigma Kappa
+Sigma Lambda Alpha
+Sigma Lambda Gamma (Chapters)
+Sigma Lambda Upsilon
+Sigma Omega Nu
+Sigma Omega Phi
+Sigma Omicron Pi
+Sigma Phi Omega
+Sigma Pi Alpha
+Sigma Psi Zeta
+Sigma Sigma Rho
+Sigma Sigma Sigma
+Theta Nu Xi
+Theta Phi Alpha
+Zeta Chi Phi
+Zeta Phi Beta
+Zeta Sigma Chi
+Zeta Tau Alpha
